@@ -87,8 +87,9 @@ div#login-right::before {
   		<div id="login-right">
   			<div class="card col-md-8">
   				<div class="card-body">
-  						<div class="logo">
-			  			 <img src="assets/img/logo.png" alt="">
+  						<div class="logo justify-content-center d-flex">
+			  				<!-- <span class="fa fa-money-bill-wave"></span> -->
+							  <img src="assets/img/logo.png" alt="logo" width="300" height="78" >
 			  			</div>
   					<form id="login-form" >
   						<div class="form-group">
